@@ -1,0 +1,23 @@
+.table {
+	width: 35%;
+	margin-bottom: 20px;
+	border: 1px solid #dddddd;
+	border-collapse: collapse; 
+}
+.table th {
+	text-align: center;
+	font-weight: bold;
+	padding: 10px;
+	background: #efefef;
+	border: 5px solid #dddddd;
+}
+.table td {
+	text-align: center;
+	border: 5px solid #dddddd;
+	padding: 5px;
+}
+
+
+} 
+</style>
+

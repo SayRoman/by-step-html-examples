@@ -1,5 +1,9 @@
+header {
+	margin: 20px;
+}
+
 ul {
-	list-style-type: &#62;
+	list-style-type: none;
     }
 	
 .more {
