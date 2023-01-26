@@ -2,8 +2,57 @@ ul {
 	list-style-type: &#62;
     }
 	
+.more {
+	
+    margin: 0;
+	padding: 36px 0 36px 45px;
+	list-style: none;
+	background-image: url("more.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 40px;
+	}
+	
 .winter {
-	high: 50px;
-	margin: 100px;
-	list-style-image: url("snow.png")
+	
+    margin: 0;
+	padding: 36px 0 36px 45px;
+	list-style: none;
+	background-image: url("snow.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 40px;
+}	
+
+.spring {
+	
+	margin: 0;
+	padding: 36px 0 36px 45px;
+	list-style: none;
+	background-image: url("spring.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 40px;
+}	
+
+.summer {
+	
+	margin: 0;
+	padding: 36px 0 36px 45px;
+	list-style: none;
+	background-image: url("summer.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 40px;
+}	
+
+.autumn {
+	
+	margin: 0;
+	padding: 36px 0 36px 45px;
+	list-style: none;
+	background-image: url("fall.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 40px;
 }	
